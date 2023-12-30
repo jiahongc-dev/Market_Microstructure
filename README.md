@@ -1,0 +1,1 @@
+It is well known that a transaction can generate market impact on the price of a traded instrument. In this project, we consider the case of commodity futures trading and a delicate impact process at a tick-by-tick level.
